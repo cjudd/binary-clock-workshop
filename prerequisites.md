@@ -14,7 +14,7 @@
 
 ## Software
 
-* [Download Raspbian Stretch Lite](https://www.raspberrypi.org/downloads/raspbian/ or http://director.downloads.raspberrypi.org/raspbian_lite/images/raspbian_lite-2018-06-29/2018-06-27-raspbian-stretch-lite.zip)
+* [Download Raspbian Stretch Lite](http://director.downloads.raspberrypi.org/raspbian_lite/images/raspbian_lite-2018-06-29/2018-06-27-raspbian-stretch-lite.zip)
 * Download and install a Text Editor like [Visual Studio Code](https://code.visualstudio.com)
 * Download and install [Etcher](https://etcher.io)
 * Download and install [PuTTY](https://www.putty.org/) (Windows only)
