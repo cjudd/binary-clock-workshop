@@ -4,7 +4,7 @@ During this lab, you will start attaching external hardware such as LEDs and con
 
 ## Wire Up LED
 
-1. Add LED (green) to breadboard with netative (shorter) leg in G30 and the positive (longer) leg in G29.
+1. Add LED (green) to breadboard with netative (shorter) leg in F30 and the positive (longer) leg in F29.
 1. Add a short black wire connecting J30 to closest negative (-) row.
 1. Ground the negative row by connecting a long black wire to the top negative (-) row hole around J1 to a Ground on the Raspberry Pi.
 1. Add a color wire from J29 to GPIO 21.
