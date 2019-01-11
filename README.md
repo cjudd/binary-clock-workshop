@@ -4,12 +4,9 @@ Have you ever wanted to be the geekiest kid around? This session will earn you t
 
 Ages - 12+
 
-[Prerequisites](prerequisites.md)
+## Labs
 
-[Raspberry Pi (Zero) Setup](raspberry_pi_setup.md)
-
-[Basic Hardware](basic_hardware.md)
-
-[LED Traffic Light](led_traffic_light.md)
-
-[Binary Clock](binary_clock.md)
+1. [Prerequisites](prerequisites.md)
+1. [Raspberry Pi (Zero) Setup](raspberry_pi_setup.md)
+1. [Basic Hardware](basic_hardware.md)
+1. [Binary Clock](binary_clock.md)
