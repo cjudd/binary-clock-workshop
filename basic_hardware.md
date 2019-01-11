@@ -13,6 +13,7 @@ During this lab, you will start attaching external hardware such as LEDs and con
 
 1. On the Raspberry Pi command-line install RPi.GPIO library.
 ```
+sudo apt-get update
 sudo apt-get install python-rpi.gpio python3-rpi.gpio
 ``` 
 1. Start interactive Python shell.
