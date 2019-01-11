@@ -6,7 +6,7 @@ Ages - 12+
 
 [Prerequisites](prerequisites.md)
 
-[Raspberry Pi (Zero) Setup](raspberry_pi_zero_setup.md)
+[Raspberry Pi (Zero) Setup](raspberry_pi_setup.md)
 
 [Basic Hardware](basic_hardware.md)
 
