@@ -4,6 +4,8 @@ Have you ever wanted to be the geekiest kid around? This session will earn you t
 
 Ages - 12+
 
+[Slides](https://s3.amazonaws.com/cmj-presentations/binary-clock_codemash2019.pdf)
+
 ## Labs
 
 1. [Prerequisites](prerequisites.md)
