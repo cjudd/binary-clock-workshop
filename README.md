@@ -9,4 +9,5 @@ Ages - 12+
 1. [Prerequisites](prerequisites.md)
 1. [Raspberry Pi (Zero) Setup](raspberry_pi_setup.md)
 1. [Basic Hardware](basic_hardware.md)
+1. [Morse Code](morse_code.md)
 1. [Binary Clock](binary_clock.md)

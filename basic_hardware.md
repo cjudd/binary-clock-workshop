@@ -102,36 +102,3 @@ led.blink(2, 2, 3)
 ```
 exit()
 ```
-
-## Morse Code Script
-
-Create a morse code script that blinks ...---... or short short short long long long short short short repeat.
-
-1. On the Raspberry Pi command-line open a new morse.py file using the nano text editor.
-```
-nano morse.py
-```
-2. Add the following Python code.
-```
-#!/usr/bin/env python3
-
-import time
-from gpiozero import LED
-
-led = LED(21)
-while True:
-        led.blink(.5,.5,3, False)
-        led.blink(1,.5,3, False)
-        led.blink(.5,.5,3, False)
-        time.sleep(5)
-```
-3. Exit nano using Ctrl+X.
-4. Make script executable.
-```
-chmod 744 morse.py
-```
-5. Execute script.
-```
-./morse.py
-```
-6. End script with Ctrl+C.
