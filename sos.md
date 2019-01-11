@@ -1,17 +1,17 @@
-# Morse Code
+# SOS
 
-This is a lab intended to test your ability to control LEDs and look up documentation. In this lab, you will create a morse code script incase you are in an immergancy. Maybe be chased by the disapproving gorilla at the Kalihari. The morse code script will blink ...---... or short short short long long long short short short repeat.
+This is a lab intended to test your ability to control LEDs and look up documentation. In this lab, you will create a SOS script incase you are in an immergancy. Maybe be chased by the disapproving gorilla at the Kalihari. The SOS script will blink ...---... or short short short long long long short short short repeat.
 
-## Morse Code Challenge
+## SOS Challenge
 
-Using either the Python interactive shell or a script, use the Gpiozero library and documentation at https://gpiozero.readthedocs.io/en/stable/api_output.html to create a morse code. When you are complete, check your anwser below. If you are impatient, you can just continue to the anwser.
+Using either the Python interactive shell or a script, use the Gpiozero library and documentation at https://gpiozero.readthedocs.io/en/stable/api_output.html to create a SOS. When you are complete, check your anwser below. If you are impatient, you can just continue to the anwser.
 
 
-## Morse Code Anwser
+## SOS Anwser
 
-1. On the Raspberry Pi command-line open a new morse.py file using the nano text editor.
+1. On the Raspberry Pi command-line open a new sos.py file using the nano text editor.
 ```
-nano morse.py
+nano sos.py
 ```
 2. Add the following Python code.
 ```
@@ -30,10 +30,10 @@ while True:
 3. Exit nano using Ctrl+X.
 4. Make script executable.
 ```
-chmod 744 morse.py
+chmod 744 sos.py
 ```
 5. Execute script.
 ```
-./morse.py
+./sos.py
 ```
 6. End script with Ctrl+C.
