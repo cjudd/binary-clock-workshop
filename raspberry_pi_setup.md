@@ -33,3 +33,28 @@ Follow https://desertbot.io/blog/headless-pi-zero-ssh-access-over-usb-windows
         1. Approve authenticity of host.
 1. Enter raspberry as password.
 
+## Configure Networking & Timezone
+
+Networking and Timezone should be configured so it can automatically get the correct time.
+
+NOTE: When you bring the binary clock home or change WiFi networks, you will have to reconfigure the network.
+
+1. At the Raspberry Pi's command-line type:
+```
+sudo raspi-config
+```
+1. Goto Network Options.
+1. Choose Wi-fi.
+1. Select US.
+1. Enter CodeMash for SSID and press enter for passphrase.
+1. Goto Localisation Options.
+1. Choose Change Timezone.
+1. US
+1. Select Eastern or timezone you reside in.
+1. Finish.
+1. Type the following on the command-line to validate date and time.
+```
+date
+```
+
+NOTE: While you are in raspi-config, it is probably a good idea to change the password as the default password is insecure and well known!!!
