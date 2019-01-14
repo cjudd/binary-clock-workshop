@@ -2,6 +2,9 @@
 
 To complete the workshop, you will need some hardware and software. Purchased in bulk, the total cost of the workshop is approximately $22.
 
+![Binary clock parts](images/parts.jpg "Binary clock parts")
+
+
 ## Hardware
 
 * [Raspberry Pi 3, Raspberry Pi 3 B+, Raspberry Pi 3 B+](https://www.adafruit.com/product/3055) or [Raspberry Pi Zero W](https://www.adafruit.com/product/3400) - It should have WiFi to sync time.
