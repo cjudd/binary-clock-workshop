@@ -41,6 +41,12 @@ Follow https://desertbot.io/blog/headless-pi-zero-ssh-access-over-usb-windows
         1. Approve authenticity of host.
 1. Enter raspberry as password.
 
+NOTE: If you get a **WARNING: POSSIBLE DNS SPOOFING DETECTED!** error run the following command and try sshing again.
+
+```
+ssh-keygen -R raspberrypi.local
+```
+
 ## Configure Networking & Timezone
 
 Networking and Timezone should be configured so it can automatically get the correct time.
