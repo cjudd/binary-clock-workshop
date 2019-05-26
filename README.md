@@ -13,7 +13,8 @@ Approx. Cost - $22-25
 ## Labs
 
 1. [Prerequisites](prerequisites.md)
-1. [Raspberry Pi (Zero) Setup](raspberry_pi_setup.md)
+1. [Setup](setup.md)
+1. [Configure](config.md)
 1. [Basic Hardware](basic_hardware.md)
 1. [SOS](sos.md)
 1. [Binary Clock](binary_clock.md)
