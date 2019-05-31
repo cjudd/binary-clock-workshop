@@ -14,7 +14,7 @@ During this lab, you connect the Raspberry Pi to your computer so you can remote
         ssh pi@raspberrypi.local
         ```
         1. Approve authenticity of host.
-1. Enter raspberry as password.
+1. Enter **raspberry** as password.
 
 NOTE: If you get a **WARNING: POSSIBLE DNS SPOOFING DETECTED!** error run the following command and try sshing again.
 
@@ -47,3 +47,11 @@ date
 ```
 
 NOTE: While you are in raspi-config, it is probably a good idea to change the password as the default password is insecure and well known!!!
+
+## Manually Configure Time
+
+If WiFi isn't available, you can set the current time using this command.
+
+```
+sudo date -s "30 MAY 2019 21:47:00"
+```
