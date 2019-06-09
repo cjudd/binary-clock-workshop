@@ -7,6 +7,8 @@ During this lab, you will install the solderless headers so you can connect to t
 1. Place Raspberry Pi in Jig with Header resting gently in GPIO holes.
 1. Using a hammer, gently tap Header into place.
 
+NOTE: To complete the setup, you can Flash Raspian Stretch Lite Operating System and Enable SSH or you can download and flash a preconfigured version at https://cmj-presentations.s3.amazonaws.com/binary-clock/raspbian-binary-clock.zip.
+
 ## Flash Raspbian Stretch Lite Operating System
 
 NOTE: Depends on [Raspbian Stretch Lite](http://director.downloads.raspberrypi.org/raspbian_lite/images/raspbian_lite-2018-06-29/2018-06-27-raspbian-stretch-lite.zip) and [Etcher](https://etcher.io).
