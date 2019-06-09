@@ -38,4 +38,6 @@ chmod 744 sos.py
 ```
 6. End script with Ctrl+C.
 
+---
+
 [NEXT](binary_clock.md)

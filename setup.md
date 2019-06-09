@@ -29,4 +29,6 @@ On Windows:
 
 Follow https://desertbot.io/blog/headless-pi-zero-ssh-access-over-usb-windows
 
+---
+
 [NEXT](config.md)

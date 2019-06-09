@@ -56,4 +56,6 @@ If WiFi isn't available, you can set the current time using this command.
 sudo date -s "30 MAY 2019 21:47:00"
 ```
 
+---
+
 [NEXT](basic_hardware.md)

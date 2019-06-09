@@ -24,4 +24,6 @@ To complete the workshop, you will need some hardware and software. Purchased in
 * Download and install [Etcher](https://etcher.io)
 * Download and install [PuTTY](https://www.putty.org/) (Windows only)
 
+---
+
 [NEXT](setup.md)
