@@ -37,9 +37,9 @@ NOTE: When you bring the binary clock home or change WiFi networks, you will hav
 ```
 sudo raspi-config
 ```
-1. ~~~Goto Network Options.~~~
-1. ~~~Choose Wi-fi.~~~
-1. ~~~Enter CodeMash for SSID and press enter for passphrase.~~~
+1. ~~Goto Network Options.~~
+1. ~~Choose Wi-fi.~~
+1. ~~Enter CodeMash for SSID and press enter for passphrase.~~
 1. Goto Localisation Options.
 1. Choose Change Timezone.
 1. US
