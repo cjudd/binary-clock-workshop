@@ -1,4 +1,4 @@
-# Raspberry Pi Setup
+# Setup
 
 During this lab, you will install the solderless headers so you can connect to the LEDs as well as install and configured the operating system Raspian.
 
@@ -28,3 +28,5 @@ Follow https://desertbot.io/blog/ssh-into-pi-zero-over-usb.
 On Windows:
 
 Follow https://desertbot.io/blog/headless-pi-zero-ssh-access-over-usb-windows
+
+[NEXT](config.md)

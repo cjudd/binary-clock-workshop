@@ -1,4 +1,4 @@
-# Raspberry Pi Setup
+# Configure
 
 During this lab, you connect the Raspberry Pi to your computer so you can remotely login using the monitor on your comuputer rather then having to attach an external monitor, keyboard and mouse. Finally you will configure your Raspberry Pi to synchronize it's clock with the internet so it aways has the correct time. 
 
@@ -55,3 +55,5 @@ If WiFi isn't available, you can set the current time using this command.
 ```
 sudo date -s "30 MAY 2019 21:47:00"
 ```
+
+[NEXT](basic_hardware.md)
