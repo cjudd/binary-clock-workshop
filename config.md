@@ -14,6 +14,11 @@ During this lab, you connect the Raspberry Pi to your computer so you can remote
         ssh pi@raspberrypi.local
         ```
         1. Approve authenticity of host.
+    * Windows
+        1. Open Putty
+        1. Enter raspberrypi.local into Host Name and press the Open button.
+        1. Approve authentication of host.
+        1. Enter login of pi and press enter.
 1. Enter **raspberry** as password.
 
 NOTE: If you get a **WARNING: POSSIBLE DNS SPOOFING DETECTED!** error run the following command and try sshing again.
@@ -32,10 +37,9 @@ NOTE: When you bring the binary clock home or change WiFi networks, you will hav
 ```
 sudo raspi-config
 ```
-1. Goto Network Options.
-1. Choose Wi-fi.
-1. Select US.
-1. Enter CodeMash for SSID and press enter for passphrase.
+1. ~~~Goto Network Options.~~~
+1. ~~~Choose Wi-fi.~~~
+1. ~~~Enter CodeMash for SSID and press enter for passphrase.~~~
 1. Goto Localisation Options.
 1. Choose Change Timezone.
 1. US
@@ -53,7 +57,7 @@ NOTE: While you are in raspi-config, it is probably a good idea to change the pa
 If WiFi isn't available, you can set the current time using this command.
 
 ```
-sudo date -s "30 MAY 2019 21:47:00"
+sudo date -s "12 JUN 2019 21:47:00"
 ```
 
 ---
