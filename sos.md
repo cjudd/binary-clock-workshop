@@ -1,6 +1,6 @@
 # SOS
 
-This is a lab intended to test your ability to control LEDs and look up documentation. In this lab, you will create a SOS script incase you are in an immergancy. Maybe be chased by the disapproving gorilla at the Kalihari. The SOS script will blink ...---... or short short short long long long short short short repeat.
+This is a lab intended to test your ability to control LEDs and look up documentation. In this lab, you will create a SOS script incase you are in an emergancy. <!-- Maybe you are being chased by the disapproving gorilla at the Kalihari.--> The SOS script will blink ...---... or short short short long long long short short short repeat.
 
 ## SOS Challenge
 
