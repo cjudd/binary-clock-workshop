@@ -1,6 +1,6 @@
 # Binary Clock
 
-In this lab, you will create the binary clock by continuing to add the seconds, minutes and hours and then running the clock.py script.
+In this lab, you will create the binary clock by continuing to add the seconds, minutes and hours LEDs and then running the clock.py script.
 
 ## Binary Clock Hardware
 
@@ -36,15 +36,17 @@ Continue pattern started in basic hardware lab.
 
 ## Binary Clock Code
 
+<!--
 1. Get the clock code.
 ```
 git clone https://github.com/cjudd/binary-clock.git
 ```
-2. Change directory to the clock code.
+-->
+1. Change directory to the clock code.
 ```
 cd binary-clock
 ```
-3. Execute clock code.
+1. Execute clock code.
 ```
 ./clock.py
 ```

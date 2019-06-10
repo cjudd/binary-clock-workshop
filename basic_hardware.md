@@ -13,11 +13,13 @@ During this lab, you will start attaching external hardware such as LEDs and con
 
 ## Controlling LED
 
+<!--
 1. On the Raspberry Pi command-line install RPi.GPIO library.
 ```
 sudo apt-get update
 sudo apt-get install python-rpi.gpio python3-rpi.gpio
 ``` 
+-->
 1. Start interactive Python shell.
 ```
 python3
@@ -64,6 +66,7 @@ Having to manage the GPIO port can be a hastle in more complicated programs. The
 
 Documentation: https://gpiozero.readthedocs.io/en/stable/
 
+<!--
 ### Install Gpiozero and Git
 
 1. On the Raspberry Pi command-line run:
@@ -71,6 +74,7 @@ Documentation: https://gpiozero.readthedocs.io/en/stable/
 sudo apt update
 sudo apt install git python3-gpiozero
 ```
+-->
 
 ### Controlling LED with Gpiozero
 
