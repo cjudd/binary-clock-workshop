@@ -2,6 +2,8 @@
 
 During this lab, you will start attaching external hardware such as LEDs and controlling using the Python programming language. 
 
+![Blink Wiring](images/blink_bb.png "Blink Wiring")
+
 ## Wire Up LED
 
 1. Add LED (green) to breadboard with netative (shorter) leg in F30 and the positive (longer) leg in F29.
