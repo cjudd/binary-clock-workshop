@@ -38,7 +38,7 @@ GPIO.output(21, GPIO.HIGH)
 ```
 GPIO.output(21, GPIO.LOW)
 ```
-5. Impport time library.
+5. Import time library.
 ```
 import time
 ```

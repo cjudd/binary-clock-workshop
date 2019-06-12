@@ -34,6 +34,8 @@ Continue pattern started in basic hardware lab.
 | H20  | 10   |
 | H40  | 22   |
 
+![Chart](images/chart.png "Chart")
+
 ## Binary Clock Code
 
 <!--
@@ -46,12 +48,15 @@ git clone https://github.com/cjudd/binary-clock.git
 ```
 cd binary-clock
 ```
-1. Execute clock code.
+2. Execute clock code.
 ```
 ./clock.py
 ```
+3. End script with Ctrl+C. 
 
 ## Auto Start Binary Clock Code
+
+Complete the following if you want the clock to auto start when you plug it into power.
 
 1. Edit rc.local.
 ```
