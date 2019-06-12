@@ -34,6 +34,7 @@ Continue pattern started in basic hardware lab.
 | H20  | 10   |
 | H40  | 22   |
 
+![Wiring](images/binaryclock_bb.png "Wiring")
 ![Chart](images/chart.png "Chart")
 
 ## Binary Clock Code
