@@ -23,6 +23,7 @@ To complete the workshop, you will need some hardware and software. Purchased in
 * Download and install a Text Editor like [Visual Studio Code](https://code.visualstudio.com)
 * Download and install [Etcher](https://etcher.io)
 * Download and install [PuTTY](https://www.putty.org/) (Windows only)
+* Download and install [Bonjour Print Service](https://support.apple.com/kb/DL999?locale=en_US) (Windows only and only if you don't have iTunes installed)
 
 ---
 
