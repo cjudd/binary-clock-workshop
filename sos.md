@@ -10,10 +10,13 @@ Using either the Python interactive shell or a script, use the Gpiozero library 
 ## SOS Anwser
 
 1. On the Raspberry Pi command-line open a new sos.py file using the nano text editor.
+
 ```
 nano sos.py
 ```
+
 2. Add the following Python code.
+
 ```
 #!/usr/bin/env python3
 
@@ -27,15 +30,20 @@ while True:
         led.blink(.5,.5,3, False)
         time.sleep(5)
 ```
+
 3. Exit nano using Ctrl+X.
 4. Make script executable.
+
 ```
 chmod 744 sos.py
 ```
+
 5. Execute script.
+
 ```
 ./sos.py
 ```
+
 6. End script with Ctrl+C.
 
 ---
