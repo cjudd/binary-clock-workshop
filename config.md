@@ -37,9 +37,9 @@ NOTE: When you bring the binary clock home or change WiFi networks, you will hav
 ```
 sudo raspi-config
 ```
-1. ~~Goto Network Options.~~
-1. ~~Choose Wi-fi.~~
-1. ~~Enter CodeMash for SSID and press enter for passphrase.~~
+1. Goto Network Options.
+1. Choose Wi-fi.
+1. Enter codemash for SSID and press enter for passphrase.
 1. Goto Localisation Options.
 1. Choose Change Timezone.
 1. US
@@ -57,7 +57,7 @@ NOTE: While you are in raspi-config, it is probably a good idea to change the pa
 If WiFi isn't available, you can set the current time using this command.
 
 ```
-sudo date -s "12 JUN 2019 21:47:00"
+sudo date -s "09 JAN 2020 19:11:00"
 ```
 
 ---

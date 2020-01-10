@@ -8,7 +8,7 @@ Have you ever wanted to be the geekiest kid around? This session will earn you t
 Ages - 12+
 Approx. Cost - $22-25
 
-[Slides](https://cmj-presentations.s3.amazonaws.com/binary-clock/BinaryClockGirlCON2019.pdf)
+[Slides](https://cmj-presentations.s3.amazonaws.com/binary-clock-codemash-2020.pdf)
 
 ## Labs
 
