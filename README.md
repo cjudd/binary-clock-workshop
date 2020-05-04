@@ -6,7 +6,7 @@ Have you ever wanted to be the geekiest kid around? This session will earn you t
 
 [![Build a Binary Clock with a Raspberry Pi Zero Workshop Video](https://img.youtube.com/vi/FBpU8i_kK_M/0.jpg)](https://www.youtube.com/watch?v=FBpU8i_kK_M)
 
-Ages - 12+
+Ages - 12+  
 Approx. Cost - $22-25
 
 [Slides](https://cmj-presentations.s3.amazonaws.com/binary-clock-codemash-2020.pdf)
