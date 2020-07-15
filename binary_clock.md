@@ -66,6 +66,6 @@ sudo nano /etc/rc.local
 ```
 2. Add following before exit 0.
 ```
-/home/pi/binary-clock/clock.py &
+python3 /home/pi/binary-clock/clock.py &
 ```
 
