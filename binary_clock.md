@@ -50,7 +50,7 @@ git clone https://github.com/cjudd/binary-clock.git
 ```
 cd binary-clock
 ```
-2. Execute clock code.
+2. Execute clock code (You can find a copy of this in https://github.com/cjudd/binary-clock).
 ```
 ./clock.py
 ```
